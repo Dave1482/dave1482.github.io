@@ -1,6 +1,6 @@
-Origin: Dave1482 Beta repo
+Origin: Dave1482 Beta Repo
 Label: Dave1482
-Suite: beta
+Suite: stable
 Version: 1.0
 Codename: Dave1482Beta
 Architectures: iphoneos-arm
