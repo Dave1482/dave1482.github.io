@@ -1,14 +1,13 @@
 Package: com.dave1482.powerapp3
-Name: PowerApp 3
-Depends: 
+Name: PowerApp Beta
 Architecture: iphoneos-arm
 Description: An awesome application 
 Maintainer: Dave1482 <thedave1482@gmail.com>
 Author: Dave1482 <thedave1482@gmail.com>
-Section: Utilities
-Version: 0.0.1-4
+Section: Beta Utilities
+Version: 0.1-beta1
 Installed-Size: 408
-Filename: ./com.dave1482.powerapp3_0.0.1-4_iphoneos-arm.deb
-Size: 93466
-MD5sum: 1ae27d8413450173e01e7414be26fafa
+Filename: ./com.dave1482.powerapp3_0.1-beta1_iphoneos-arm.deb
+Size: 93470
+MD5sum: 509a91f36093a9bf4e738559abeda584
 
