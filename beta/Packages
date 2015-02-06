@@ -3,16 +3,14 @@ Pre-Depends: dpkg (>= 1.13.25-5)
 Name: PowerApp Beta
 Architecture: iphoneos-arm
 Description: This is a beta release. Changes: 
-    • Add Root Functionality
-    • Add script to respring on Cydia install/upgrade
-    • Add icon in Cydia
+    > Add Changelog page
 Maintainer: Dave1482 <thedave1482@gmail.com>
 Author: Dave1482 <thedave1482@gmail.com>
 Section: Beta Utilities
 Icon: file:///Applications/PowerApp3.app/icon.png
-Version: 0.1-beta2
+Version: 0.1-NIGHTLY-beta3
 Installed-Size: 480
-Filename: ./com.dave1482.powerapp3_0.1-beta2_iphoneos-arm.deb
-Size: 154822
-MD5sum: 4fd5e29e0a58f568abd85ef3b6e2a678
+Filename: ./com.dave1482.powerapp3_0.1-NIGHTLY-beta3_iphoneos-arm.deb
+Size: 157640
+MD5sum: b30c0605ab05080212d2b0ea15bdc2a9
 
