@@ -11,8 +11,9 @@
 
 function ClipBoard() 
 {
-Copied = copytext.createTextRange();
-Copied.execCommand("Copy");
+  var holdtext = copytext.innerText;
+  Copied = holdtext.createTextRange();
+  Copied.execCommand("Copy");
 }
 
 </script>
